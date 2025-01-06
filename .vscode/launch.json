@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiffuseBomb",
+            "request": "launch",
+            "mainClass": "DiffuseBomb",
+            "projectName": "DSA 2025_23649ec6"
+        },
+        {
+            "type": "java",
             "name": "LargestSubstringkDistinct",
             "request": "launch",
             "mainClass": "ARRAYS.MEDIUM.SLIDINGWPROTOCOL.LargestSubstringkDistinct",
