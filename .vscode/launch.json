@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterSectionTwoArray",
+            "request": "launch",
+            "mainClass": "InterSectionTwoArray",
+            "projectName": "DSA 2025_23649ec6"
+        },
+        {
+            "type": "java",
             "name": "FirstUniqueChar",
             "request": "launch",
             "mainClass": "FirstUniqueChar",
