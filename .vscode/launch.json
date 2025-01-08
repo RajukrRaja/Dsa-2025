@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstUniqueChar",
+            "request": "launch",
+            "mainClass": "FirstUniqueChar",
+            "projectName": "DSA 2025_23649ec6"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicatesElements",
             "request": "launch",
             "mainClass": "FindDuplicatesElements",
