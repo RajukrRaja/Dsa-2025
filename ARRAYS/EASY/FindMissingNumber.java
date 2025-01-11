@@ -15,6 +15,8 @@ public class FindMissingNumber {
         int res = FindMissingNumber(arr, array_size);
         System.out.println("The Missing Number is : " + res);
 
+        
+
     }
 
     // funtion
