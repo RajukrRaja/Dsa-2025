@@ -2,17 +2,17 @@ package QUEUE;
 
 public class SimpleQueue {
     int[] queue;
-    int front, rear, capacity;
+    int front, rear, n;
 
     public SimpleQueue(int size) {
-        capacity = size;
-        queue = new int[capacity];
+        n = size;
+        queue = new int[n];
         front = 0;
         rear = -1;
     }
 
     public void enqueue(int value) {
-        if (rear == capacity - 1) {
+        if (rear == n - 1) {
             System.out.println("Queue is full");
             return;
         }
